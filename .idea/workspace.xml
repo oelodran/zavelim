@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eed43c17-9b77-46a6-8a8e-435417393947" name="Default Changelist" comment="" />
+    <list default="true" id="eed43c17-9b77-46a6-8a8e-435417393947" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/10421525_792575964110206_1670682758353938228_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/10710567_862039947163807_7835896420839694228_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/11012885_979210678808788_736870783383365317_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/12316185_979210675475455_4268673272323341873_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/12715494_1112332935467839_8021848477294240024_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/1896848_733880586646411_1478898618_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21557682_1656353004399160_7761216284139631525_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21557703_1656352924399168_121463418939358957_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21557939_1656352874399173_7822640271915322758_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21558839_1656352931065834_7650805167572485107_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21558894_1656352877732506_4378795794445597151_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21751403_1656352934399167_7091660475109442853_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21751464_1656352881065839_8295814400340449680_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21751738_1656352927732501_8956499408384443906_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/21764906_1656352857732508_8849317584818278653_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/AW Stützböcke.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/DSC07569-768x576.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalelement bei 2,7m Midi-Box 01.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalelement bei 2,7m Midi-Box 02.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalelement bei 3m Midi-Box.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalplan CAD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalsystem Video.MPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Midi-Box  (54).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Midi-Box  (54).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna konzola 012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Potporna kozola 004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/midi-box-rahmenschalung.3_f.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/midi-box-rahmenschalung_f.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/oplata9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/public_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/slides/oplata9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pictures/wandschalung-midi-box.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,31 +87,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="373">
+              <caret line="182" column="54" selection-start-line="182" selection-start-column="54" selection-end-line="182" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/private/initialize.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="525">
+              <caret line="65" lean-forward="true" selection-start-line="24" selection-end-line="65" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/private/initialize.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/public/css/custom.css" />
+        <option value="$PROJECT_DIR$/public/index.php" />
       </list>
     </option>
   </component>
@@ -49,6 +141,7 @@
     <option name="width" value="863" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -66,6 +159,30 @@
               <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="private" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="pictures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="pictures" type="462c0819:PsiDirectoryNode" />
+              <item name="slides" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -74,19 +191,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Ex_Files_Bootstrap_EssT_Upd_2020/Exercise Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/pictures" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\zavelim_bootstrap\public\pictures" />
+      <recent name="C:\wamp64\www\zavelim_bootstrap\public\pictures\slides" />
+      <recent name="C:\wamp64\www\zavelim_bootstrap\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\zavelim_bootstrap\public" />
       <recent name="C:\wamp64\www\zavelim_bootstrap\private" />
       <recent name="C:\wamp64\www\zavelim_bootstrap\css" />
       <recent name="C:\wamp64\www\zavelim_bootstrap\style" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\zavelim_bootstrap\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -114,17 +235,19 @@
       <workItem from="1583492015166" duration="2555000" />
       <workItem from="1583754683957" duration="6395000" />
       <workItem from="1583825502526" duration="3889000" />
+      <workItem from="1584186955772" duration="129000" />
+      <workItem from="1584363456660" duration="13561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12839000" />
+    <option name="totallyTimeSpent" value="26529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15582451" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -155,20 +278,36 @@
     <entry file="file://$PROJECT_DIR$/public/js/popper.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/node_modules/@popperjs/core/dist/umd/popper.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/node_modules/@popperjs/core/dist/umd/popper.min.js" />
     <entry file="file://$PROJECT_DIR$/private/initialize.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pictures/slides/oplata1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="65" lean-forward="true" selection-start-line="24" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="182" column="54" selection-start-line="182" selection-start-column="54" selection-end-line="182" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
