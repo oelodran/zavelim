@@ -16,7 +16,7 @@
             <p class="lead">Beton je jedan od najčešće korištenih građevinskih materijala, zahvaljujući svojim izuzetnim svojstvima. Međutim, da biste stvorili građevinske elemente betonom, on se mora izliti u posebno dizajnirani kalup kojeg zovemo <b>oplata</b>.</p>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
-            <a href="#"><button type="button" class="btn btn-outline-secondary btn-lg">Oplata</button></a>
+            <a href="oplate.php"><button type="button" class="btn btn-outline-secondary btn-lg">Oplata</button></a>
         </div>
     </div>
 </div>

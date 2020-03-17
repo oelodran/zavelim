@@ -2,93 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed43c17-9b77-46a6-8a8e-435417393947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/private/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private/shared/index_slider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private/shared/public_footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private/shared/public_header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private/shared/public_navigation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/kanalnaOplata/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/kanalnaOplata/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/kanalnaOplata/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/kanalnaOplata/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/stropnaOplata/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/stropnaOplata/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/zamjenskePloce/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/zidna/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/zidna/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/o_nama.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/oplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/akcija.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/21.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/22.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/slajd14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/altradSlike/z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/akcije.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/googlea03b63c2e56ac23f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/katalozi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/kontakt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/koristeni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/onama.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/prodaja.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/prodajaOplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/prodajaSkele.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/prodajaTornjevi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/prodajaTribine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/prodajaViseceBine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nosiviTornjevi/usluge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/podiujmiTribine/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viseceBine/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viseceBine/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viseceBine/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viseceBine/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/viseceBine/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript/tether.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/nosivi_tornjevi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/FasadneSkele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/LakaZidnaOplata.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/MidiBoxRasto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/ModularniSistemSkela.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/PlettacSkele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/PokretneSkele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/VarijabilneSistemskeSkele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/stylesheet/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/stylesheet/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/stylesheet/image_hover_effects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tribine_podijumi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/usluge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/visece_bine.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/initialize.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/initialize.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/shared/public_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/shared/public_footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/shared/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/shared/public_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/shared/public_navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/private/shared/public_navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/public_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/10421525_792575964110206_1670682758353938228_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/10421525_792575964110206_1670682758353938228_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/10710567_862039947163807_7835896420839694228_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/10710567_862039947163807_7835896420839694228_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/11012885_979210678808788_736870783383365317_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/11012885_979210678808788_736870783383365317_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/12316185_979210675475455_4268673272323341873_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/12316185_979210675475455_4268673272323341873_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/12715494_1112332935467839_8021848477294240024_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/12715494_1112332935467839_8021848477294240024_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/1896848_733880586646411_1478898618_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/1896848_733880586646411_1478898618_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21557682_1656353004399160_7761216284139631525_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21557682_1656353004399160_7761216284139631525_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21557703_1656352924399168_121463418939358957_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21557703_1656352924399168_121463418939358957_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21557939_1656352874399173_7822640271915322758_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21557939_1656352874399173_7822640271915322758_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21558839_1656352931065834_7650805167572485107_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21558839_1656352931065834_7650805167572485107_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21558894_1656352877732506_4378795794445597151_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21558894_1656352877732506_4378795794445597151_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21751403_1656352934399167_7091660475109442853_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21751403_1656352934399167_7091660475109442853_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21751464_1656352881065839_8295814400340449680_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21751464_1656352881065839_8295814400340449680_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21751738_1656352927732501_8956499408384443906_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21751738_1656352927732501_8956499408384443906_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/21764906_1656352857732508_8849317584818278653_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/21764906_1656352857732508_8849317584818278653_n.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/AW Stützböcke.htm" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/AW Stützböcke.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/DSC07569-768x576.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/DSC07569-768x576.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalelement bei 2,7m Midi-Box 01.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Liftschacht-Ausschalelement bei 2,7m Midi-Box 01.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalelement bei 2,7m Midi-Box 02.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Liftschacht-Ausschalelement bei 2,7m Midi-Box 02.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalelement bei 3m Midi-Box.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Liftschacht-Ausschalelement bei 3m Midi-Box.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalplan CAD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Liftschacht-Ausschalplan CAD.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Liftschacht-Ausschalsystem Video.MPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Liftschacht-Ausschalsystem Video.MPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Midi-Box  (54).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Midi-Box  (54).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Midi-Box  (54).png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Midi-Box  (54).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 006.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 008.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 009.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna konzola 012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna konzola 012.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Potporna kozola 004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Potporna kozola 004.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/midi-box-rahmenschalung.3_f.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/midi-box-rahmenschalung.3_f.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/midi-box-rahmenschalung_f.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/midi-box-rahmenschalung_f.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/oplata9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/oplata9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/public_header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/slides/oplata9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/slides/oplata9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pictures/wandschalung-midi-box.htm" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/wandschalung-midi-box.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/oplate.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/oplate.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,40 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" selection-end-line="11" />
-              <folding>
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/private/shared/index_slider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/private/shared/public_navigation.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+            <state relative-caret-position="342">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -147,52 +118,76 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/oplate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+            <state relative-caret-position="152">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/visece_bine.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
-                <element signature="e#341#463#0#HTML" />
-                <element signature="e#472#2871#0#HTML" />
-                <element signature="e#574#1189#0#HTML" />
-                <element signature="e#1285#1293#0#HTML" expanded="true" />
-                <element signature="e#1351#1359#0#HTML" expanded="true" />
-                <element signature="e#1573#1581#0#HTML" expanded="true" />
-                <element signature="e#1736#1744#0#HTML" expanded="true" />
-                <element signature="e#1764#1772#0#HTML" expanded="true" />
-                <element signature="e#1797#1805#0#HTML" expanded="true" />
-                <element signature="e#1819#1827#0#HTML" expanded="true" />
-                <element signature="e#1883#1891#0#HTML" expanded="true" />
-                <element signature="e#1989#1997#0#HTML" expanded="true" />
-                <element signature="e#2080#2088#0#HTML" expanded="true" />
-                <element signature="e#2096#2104#0#HTML" expanded="true" />
-                <element signature="e#2139#2147#0#HTML" expanded="true" />
-                <element signature="e#2427#2435#0#HTML" expanded="true" />
-                <element signature="e#2488#2496#0#HTML" expanded="true" />
-                <element signature="e#2725#2733#0#HTML" expanded="true" />
-                <element signature="e#2773#2781#0#HTML" expanded="true" />
-                <element signature="e#2880#3963#0#HTML" />
-                <element signature="e#3775#3783#0#HTML" expanded="true" />
-                <element signature="e#3869#3877#0#HTML" expanded="true" />
-                <element signature="e#3892#3900#0#HTML" expanded="true" />
-                <element signature="e#3972#5385#0#HTML" />
-                <element signature="e#4085#5222#0#HTML" />
-                <element signature="e#5301#5309#0#HTML" expanded="true" />
-                <element signature="e#5394#5890#0#HTML" />
-                <element signature="e#5899#6356#0#HTML" />
-                <element signature="e#6116#6124#0#HTML" expanded="true" />
-                <element signature="e#6365#7082#0#HTML" />
-                <element signature="e#6441#6449#0#HTML" expanded="true" />
-                <element signature="e#6512#6520#0#HTML" expanded="true" />
-                <element signature="e#6602#6610#0#HTML" expanded="true" />
-                <element signature="e#6702#6710#0#HTML" expanded="true" />
-                <element signature="e#6869#6877#0#HTML" expanded="true" />
-                <element signature="e#7180#7188#0#HTML" expanded="true" />
-                <element signature="e#7630#7634#0#HTML" expanded="true" />
-                <element signature="e#7657#7661#0#HTML" expanded="true" />
-                <element signature="e#7703#7711#0#HTML" expanded="true" />
-                <element signature="e#7754#7762#0#HTML" expanded="true" />
-                <element signature="e#9055#9061#0#HTML" expanded="true" />
-                <element signature="e#9135#9141#0#HTML" expanded="true" />
+                <element signature="e#1583#1589#1#HTML" expanded="true" />
+                <element signature="e#1712#1720#0#HTML" expanded="true" />
+                <element signature="e#2028#2036#0#HTML" expanded="true" />
+                <element signature="e#2225#2233#0#HTML" expanded="true" />
+                <element signature="e#2334#2342#0#HTML" expanded="true" />
+                <element signature="e#2521#2529#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/shared/public_navigation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/kontakt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#545#639#0#HTML" expanded="true" />
+                <element signature="e#698#706#0#HTML" expanded="true" />
+                <element signature="e#771#794#0#HTML" expanded="true" />
+                <element signature="e#866#930#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/shared/index_slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/shared/public_footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -200,8 +195,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/o_nama.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -213,6 +208,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -235,11 +231,19 @@
         <option value="$PROJECT_DIR$/private/shared/slider.php" />
         <option value="$PROJECT_DIR$/private/functions.php" />
         <option value="$PROJECT_DIR$/private/initialize.php" />
-        <option value="$PROJECT_DIR$/private/shared/public_header.php" />
-        <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/public/o_nama.php" />
-        <option value="$PROJECT_DIR$/private/shared/public_navigation.php" />
         <option value="$PROJECT_DIR$/private/shared/index_slider.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/public/visece_bine.php" />
+        <option value="$PROJECT_DIR$/public/js/gallery.js" />
+        <option value="$PROJECT_DIR$/public/tribine_podijumi.php" />
+        <option value="$PROJECT_DIR$/public/nosivi_tornjevi.php" />
+        <option value="$PROJECT_DIR$/public/usluge.php" />
+        <option value="$PROJECT_DIR$/public/akcija.php" />
+        <option value="$PROJECT_DIR$/private/shared/public_footer.php" />
+        <option value="$PROJECT_DIR$/private/shared/public_header.php" />
+        <option value="$PROJECT_DIR$/public/kontakt.php" />
+        <option value="$PROJECT_DIR$/private/shared/public_navigation.php" />
         <option value="$PROJECT_DIR$/public/oplate.php" />
       </list>
     </option>
@@ -256,84 +260,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="private" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="private" type="462c0819:PsiDirectoryNode" />
               <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
+              <item name="zavelim_bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zavelim_bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="kanalnaOplata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="stropnaOplata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zavelim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zavelim" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="zamjenskePloce" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\zavelim_bootstrap\public" />
+      <recent name="C:\wamp64\www\zavelim_bootstrap\public\images" />
+      <recent name="C:\wamp64\www\zavelim_bootstrap\public\js" />
+      <recent name="C:\wamp64\www\zavelim_bootstrap\public\css" />
+      <recent name="C:\xampp\htdocs\zavelim\public\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\zavelim_bootstrap\public" />
       <recent name="C:\wamp64\www\zavelim_bootstrap\private" />
       <recent name="C:\wamp64\www\zavelim_bootstrap\css" />
       <recent name="C:\wamp64\www\zavelim_bootstrap\style" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\zavelim\public\images" />
-      <recent name="C:\xampp\htdocs\zavelim\public\pictures" />
-      <recent name="C:\wamp64\www\zavelim_bootstrap\public\pictures" />
-      <recent name="C:\wamp64\www\zavelim_bootstrap\public\pictures\slides" />
-      <recent name="C:\wamp64\www\zavelim_bootstrap\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -369,17 +358,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36158000" />
+    <option name="totallyTimeSpent" value="46645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16504854" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16263238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -400,32 +389,15 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/js/jquery.slim.min.js">
+    <entry file="file://$PROJECT_DIR$/public/javascript/jquery.slim.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/popper.min.js">
+    <entry file="file://$PROJECT_DIR$/public/javascript/popper.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/node_modules/@popperjs/core/dist/umd/popper.min.js" />
     <entry file="file://$PROJECT_DIR$/public/images/slides/oplata1.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="65" selection-start-line="24" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private/shared/public_footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/private/functions.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -451,94 +423,156 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheet/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheet/image_hover_effects.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascript/tether.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascript/gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/visece_bine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#1583#1589#1#HTML" expanded="true" />
+            <element signature="e#1712#1720#0#HTML" expanded="true" />
+            <element signature="e#2028#2036#0#HTML" expanded="true" />
+            <element signature="e#2225#2233#0#HTML" expanded="true" />
+            <element signature="e#2334#2342#0#HTML" expanded="true" />
+            <element signature="e#2521#2529#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tribine_podijumi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="e#1698#1704#1#HTML" expanded="true" />
+            <element signature="e#1843#1849#1#HTML" expanded="true" />
+            <element signature="e#2031#2039#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/nosivi_tornjevi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#1624#1630#1#HTML" expanded="true" />
+            <element signature="e#1764#1770#1#HTML" expanded="true" />
+            <element signature="e#1904#1910#1#HTML" expanded="true" />
+            <element signature="e#2043#2049#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/usluge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="e#1577#1583#1#HTML" expanded="true" />
+            <element signature="e#1728#1734#1#HTML" expanded="true" />
+            <element signature="e#1878#1884#1#HTML" expanded="true" />
+            <element signature="e#2029#2035#1#HTML" expanded="true" />
+            <element signature="e#2180#2186#1#HTML" expanded="true" />
+            <element signature="e#2331#2337#1#HTML" expanded="true" />
+            <element signature="e#2481#2487#1#HTML" expanded="true" />
+            <element signature="e#2632#2638#1#HTML" expanded="true" />
+            <element signature="e#2783#2789#1#HTML" expanded="true" />
+            <element signature="e#2934#2940#1#HTML" expanded="true" />
+            <element signature="e#3085#3091#1#HTML" expanded="true" />
+            <element signature="e#3236#3242#1#HTML" expanded="true" />
+            <element signature="e#3387#3393#1#HTML" expanded="true" />
+            <element signature="e#3538#3544#1#HTML" expanded="true" />
+            <element signature="e#3689#3695#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/akcija.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/o_nama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/shared/index_slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/shared/public_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-end-line="11" />
+        <state relative-caret-position="342">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/kontakt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#545#639#0#HTML" expanded="true" />
+            <element signature="e#698#706#0#HTML" expanded="true" />
+            <element signature="e#771#794#0#HTML" expanded="true" />
+            <element signature="e#866#930#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/private/shared/public_navigation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/o_nama.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/private/shared/index_slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        <state relative-caret-position="426">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/oplate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding>
-            <element signature="e#341#463#0#HTML" />
-            <element signature="e#472#2871#0#HTML" />
-            <element signature="e#574#1189#0#HTML" />
-            <element signature="e#1285#1293#0#HTML" expanded="true" />
-            <element signature="e#1351#1359#0#HTML" expanded="true" />
-            <element signature="e#1573#1581#0#HTML" expanded="true" />
-            <element signature="e#1736#1744#0#HTML" expanded="true" />
-            <element signature="e#1764#1772#0#HTML" expanded="true" />
-            <element signature="e#1797#1805#0#HTML" expanded="true" />
-            <element signature="e#1819#1827#0#HTML" expanded="true" />
-            <element signature="e#1883#1891#0#HTML" expanded="true" />
-            <element signature="e#1989#1997#0#HTML" expanded="true" />
-            <element signature="e#2080#2088#0#HTML" expanded="true" />
-            <element signature="e#2096#2104#0#HTML" expanded="true" />
-            <element signature="e#2139#2147#0#HTML" expanded="true" />
-            <element signature="e#2427#2435#0#HTML" expanded="true" />
-            <element signature="e#2488#2496#0#HTML" expanded="true" />
-            <element signature="e#2725#2733#0#HTML" expanded="true" />
-            <element signature="e#2773#2781#0#HTML" expanded="true" />
-            <element signature="e#2880#3963#0#HTML" />
-            <element signature="e#3775#3783#0#HTML" expanded="true" />
-            <element signature="e#3869#3877#0#HTML" expanded="true" />
-            <element signature="e#3892#3900#0#HTML" expanded="true" />
-            <element signature="e#3972#5385#0#HTML" />
-            <element signature="e#4085#5222#0#HTML" />
-            <element signature="e#5301#5309#0#HTML" expanded="true" />
-            <element signature="e#5394#5890#0#HTML" />
-            <element signature="e#5899#6356#0#HTML" />
-            <element signature="e#6116#6124#0#HTML" expanded="true" />
-            <element signature="e#6365#7082#0#HTML" />
-            <element signature="e#6441#6449#0#HTML" expanded="true" />
-            <element signature="e#6512#6520#0#HTML" expanded="true" />
-            <element signature="e#6602#6610#0#HTML" expanded="true" />
-            <element signature="e#6702#6710#0#HTML" expanded="true" />
-            <element signature="e#6869#6877#0#HTML" expanded="true" />
-            <element signature="e#7180#7188#0#HTML" expanded="true" />
-            <element signature="e#7630#7634#0#HTML" expanded="true" />
-            <element signature="e#7657#7661#0#HTML" expanded="true" />
-            <element signature="e#7703#7711#0#HTML" expanded="true" />
-            <element signature="e#7754#7762#0#HTML" expanded="true" />
-            <element signature="e#9055#9061#0#HTML" expanded="true" />
-            <element signature="e#9135#9141#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="93" />
         </state>
       </provider>
     </entry>

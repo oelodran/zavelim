@@ -16,8 +16,10 @@
     Prodajom montažnih tribina i podijuma
     Prodajom zamjenske oplate" />
     <meta name="google-site-verification" content="GNmNouZUt6wInM3V2nJZPcfXeocfZ7I2SpC7L69gPnM" />
-    <link rel="stylesheet" href="<?php echo url_for('css/bootstrap.min.css'); ?>">
-    <link rel="stylesheet" href="<?php echo url_for('css/custom.css'); ?>">
+    <link rel="stylesheet" href="<?php echo url_for('stylesheet/bootstrap.min.css'); ?>">
+    <link rel="stylesheet" href="<?php echo url_for('stylesheet/custom.css'); ?>">
+    <link rel="stylesheet" media="all" href="<?php echo url_for('/stylesheet/image_hover_effects.css'); ?>" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" />
     <title>Zavelim</title>
 </head>
 

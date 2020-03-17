@@ -1,0 +1,30 @@
+.section-box-eight{
+    height: 250px;
+    background: radial-gradient(#6e6e6e,#2f2f2f);
+    background: -webkit-radial-gradient(#6e6e6e,#2f2f2f);
+    background: -moz-radial-gradient(#6e6e6e,#2f2f2f);
+    color: #fff;
+    position: relative;
+    overflow:hidden;
+    transform: rotateY(-180deg);
+    transition: ease-in-out .5s;
+}
+.section-box-eight:hover {
+    transform: rotateY(0deg);
+}
+.section-box-eight:hover img {
+    transform: rotateY(-180deg);
+    backface-visibility: hidden;
+    transition: ease-in-out .5s;
+}
+.section-box-eight figure {
+    position: absolute;
+    text-align: center;
+    padding: 19px;
+    width: 100%;
+    height: 100%;
+}
+.section-box-eight img{
+    height: 100%;
+    position: absolute;
+}

@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kontakt</title>
+<meta name="keywords" content="iznajmljivanje, oplate, pribor, prodaja, skele" />
+<meta name="description" content="Tvrtka ZAVELIM d.o.o. iz Zmijavaca bavi se: Najmom i prodajo fasadnih skela renomiranog proizvođača - Altrad Baumann" />
+<meta name="author" content="Leonardo" />
+<meta name="Copyright" content="ZAVELIM" />
+
+<link type="text/css" rel="stylesheet" href="style.css" />
+<script src="http://maps.googleapis.com/maps/api/js">
+</script>
+
+<script>
+var myCenter=new google.maps.LatLng(43.411690,17.213727);
+
+function initialize()
+{
+var mapProp = {
+  center: myCenter,
+  zoom:5,
+  mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+var marker = new google.maps.Marker({
+  position: myCenter,
+  title:'Click to zoom'
+  });
+
+marker.setMap(map);
+
+google.maps.event.addListener(marker,'click',function() {
+  map.setZoom(9);
+  map.setCenter(marker.getPosition());
+  });
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+<body>
+<div id="zaglavlje">
+		<img src="slike/kontakt.png" alt="Altrad  Baumann" width="100%" height="300px" />
+</div>
+<div id="glavni">
+	<div id="menu">
+		<ul class="main-nav-ul">
+			<li><a href="index.html">Naslovna</a></li>
+			<li><a href="prodaja.html">Prodaja <span class="sub-arrow"></span></a>
+				<ul style="background-color: #80beff;">
+					<li><a href="prodajaSkele.html">Skele</li></a>
+					<li><a href="prodajaOplate.html">Oplate</li></a>
+					<li><a href="prodajaViseceBine.html">Viseće bine</li></a>
+					<li><a href="prodajaTribine.html">Tribine i podijumi</li></a>
+					<li><a href="prodajaTornjevi.html">Nosivi tornjevi</li></a>
+				</ul>
+			</li>
+			<li><a href="usluge.html">Usluge</a></li>
+			<li><a href="koristeni.html">Korišteni proizvodi</a></li>
+			<li><a href="akcije.html">Akcije</a></li>
+			<li><a href="katalozi.html">Katalozi</a></li>
+			<li><a href="onama.html">O nama</a></li>
+			<li><a class="aktivna" href="kontakt.html">Kontakt</a></li>
+		</ul>
+	</div>
+	<div id="sadrzaj">
+		<h1>KONTAKT</h1>
+		<address style="float: left; text-align: left; padding-left: 25px; font-size: 20px; border-color: gray; ">
+			
+			
+		</address>
+		<div id="googleMap" style="margin-top: 700px; position: absolute; right: 30px; bottom: 300px; width:500px;height:380px; margin: auto;"></div>
+	</div>
+</div>
+<div id="podnozje">
+	 <p>ZAVELIM All Rights Reserved</p>
+</div>
+</body>

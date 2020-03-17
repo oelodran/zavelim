@@ -20,8 +20,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="stylesheet" media="all" href="<?php echo url_for('/stylesheets/bootstrap.min.css'); ?>" />
-    <link rel="stylesheet" media="all" href="<?php echo url_for('/stylesheets/image_hover_effects.css'); ?>" />
+    <link rel="stylesheet" media="all" href="<?php echo url_for('/stylesheets/bootstrap.min.stylesheet'); ?>" />
+    <link rel="stylesheet" media="all" href="<?php echo url_for('/stylesheets/image_hover_effects.stylesheet'); ?>" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" />
 
     <link rel="icon" type="image/vnd.mi" href="/images/logo.png" />

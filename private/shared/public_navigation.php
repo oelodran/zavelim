@@ -22,21 +22,24 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="<?php echo url_for('oplate.php'); ?>">Oplate</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Viseće bine</a>
+                        <a class="dropdown-item" href="<?php echo url_for('visece_bine.php'); ?>">Viseće bine</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Tribine i podijumi</a>
+                        <a class="dropdown-item" href="<?php echo url_for('tribine_podijumi.php'); ?>">Tribine i podijumi</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Nosivi Tornjevi</a>
+                        <a class="dropdown-item" href="<?php echo url_for('nosivi_tornjevi.php'); ?>">Nosivi Tornjevi</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Usluge</a>
+                    <a class="nav-link" href="<?php echo url_for('usluge.php'); ?>">Usluge</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Akcija</a>
+                    <a class="nav-link" href="<?php echo url_for('akcija.php'); ?>">Akcija</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Kontakt</a>
+                    <a class="nav-link" href="<?php echo url_for('kontakt.php'); ?>">Kontakt</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<?php echo url_for('kontakt.php'); ?>">Kontakt</a>
                 </li>
             </ul>
         </div>
